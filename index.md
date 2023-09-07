@@ -1,4 +1,4 @@
 ---
-title: Welcome to my Mail's blog
+title: Welcome to Mail's blog
 ---
 
